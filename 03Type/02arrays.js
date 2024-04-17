@@ -21,3 +21,10 @@ marvel.push('Antman');
 // Client type
 var clients = [];
 clients.push({ name: "", age: 12, isPaid: false });
+// An Array of arrays
+var score = [];
+score = [
+    [12, 13],
+    [15, 19]
+];
+score.push([18, 19]);

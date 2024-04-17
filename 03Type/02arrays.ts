@@ -34,3 +34,15 @@ marvel.push('Antman');
 // Client type
 let clients : Array<Client> = [];
 clients.push({name:"",age: 12, isPaid : false});
+
+
+// An Array of arrays
+let score : number[][] =[]
+score = [
+    [12,13],
+    [15,19]
+]
+
+score.push([18,19]);
+
+export {}
